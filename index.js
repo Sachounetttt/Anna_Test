@@ -1,5 +1,5 @@
-// Adaptation du code du TP, attribue a Webdevtrick (https://webdevtrick.com).
-// Affichage sur 24 heures : la variable non definie 'session' est supprimee.
+// Adaptation du code du TP, attribué à Webdevtrick (https://webdevtrick.com).
+// Affichage sur 24 heures : la variable non définie 'session' est supprimée.
 function showTime() {
     var date = new Date();
     var h = date.getHours();
